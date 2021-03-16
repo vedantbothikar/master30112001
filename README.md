@@ -62,15 +62,15 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 
 <a href="https://github.com/master30112001">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=master30112001&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=master30112001&theme=buefy&layout=compact" />
+
 </a>
 
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-<a href="https://jatinpahuja.me/"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/globe.png" height="30" width="30"></a>
 
-<a href="https://www.linkedin.com/in/jatin-pahuja/" alt="Linkedin"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/linkedin.png" height="30" width="30"></a>&nbsp;
+
+<a href="https://www.linkedin.com/in/vedant-bothikar-979752197" alt="Linkedin"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/linkedin.png" height="30" width="30"></a>&nbsp;
 
 <p align="center">
 <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
