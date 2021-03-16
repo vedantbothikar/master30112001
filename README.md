@@ -33,9 +33,9 @@ I am a student, currently studying in Pune Institute of Computer Technology. I a
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/vedant-bothikar-979752197/"><img alt="LINKEDIN" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
- <a href="https://www.linkedin.com/in/vedant-bothikar-979752197/"><img alt="email" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></a>
- <a href="https://www.linkedin.com/in/vedant-bothikar-979752197/"><img alt="email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a>
+<a href="https://www.linkedin.com/in/vedant-bothikar-979752197/"><img alt="LINKEDIN" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a> 
+ <a href="https://www.instagram.com/_ved_ant__/"><img alt="email" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg"></a> 
+ <a href="vbothikar2001@gmail.com"><img alt="email" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg"></a>
 
 </p>
 
