@@ -1,14 +1,24 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
+<h1 align="center">Hey there! I'm Vedant 👋 </h1>
 
-<h2> Hey there! I'm Vedant.</h2>
+## About me :mortar_board:
+I am a student, currently studying in Vellore Institute of Technology. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+## What I know :computer:
+- **Competitive Programming**
+	- Python ❤️
+	- C++
+	- Some Java
+- **Frontend Development**
+	- HTML, CSS and Javascript :white_check_mark:
+	- Bootstrap
+	- React with Redux :electron:
+	- React Native
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science and Mathematics at University of Massachusetts Amherst.
-- 💼 &nbsp; Working as a Business Development Associate at VirtuBox InfoTech Private Limited.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as hobbies/side hustles.
+## What I want to do next :thinking:
+- Backend Development (to become a Full-Stack developer)
+- At least delve into AI and ML.
+- Unlock the secret to the universe :rofl:
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -42,7 +52,7 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/master30112001">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=master30112001&theme=buefy&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=master30112001&theme=buefy&layout=compact" />
 </a>
