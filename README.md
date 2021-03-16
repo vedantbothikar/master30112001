@@ -1,6 +1,5 @@
 <h1 align="center">Hey there! I'm Vedant 👋 </h1>
 
-<img src="https://github.com/master30112001/master30112001/blob/master/output.gif" alt="Here is a little bit about me!">
 
 ## About me :mortar_board:
 I am a student, currently studying in Vellore Institute of Technology. From very early on in my life, I started to fall in love with technology 😍 This love has helped me develop a very good technological mindset, and given me the curiosity to learn more. I firmly believe that **no amount of knowledge is enough knowledge**. 🧠
@@ -53,6 +52,13 @@ I am a student, currently studying in Vellore Institute of Technology. From very
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
 <br/>
+<code><a href="https://www.mongodb.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></a></code>
+<code><a href="https:///" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
+\<code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://git-scm.com//" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+<code><a href="https://www.javascript.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
+<code><a href="https://reactjs.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+<code><a href="https://cloud.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></a></code>
 
 <a href="https://github.com/master30112001">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=master30112001&theme=buefy&show_icons=true" />
@@ -62,6 +68,9 @@ I am a student, currently studying in Vellore Institute of Technology. From very
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<a href="https://jatinpahuja.me/"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/globe.png" height="30" width="30"></a>
+
+<a href="https://www.linkedin.com/in/jatin-pahuja/" alt="Linkedin"><img src="https://github.com/jatin-pahuja/jatin-pahuja/blob/master/linkedin.png" height="30" width="30"></a>&nbsp;
 
 <p align="center">
 <a href="https://www.adityavsingh.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
