@@ -19,7 +19,7 @@ I am a student, currently studying in Pune Institute of Computer Technology. I a
 
 ## What I want to do next :thinking:
 - Get involved more into Development
-- Explore more aboout AI and ML
+- Explore more about AI and ML
 
 <br/>
 
