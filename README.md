@@ -23,7 +23,8 @@ I am a student, currently studying in Pune Institute of Computer Technology. I a
 <br/>
 
 <a href="https://github.com/master30112001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=master30112001&theme=buefy&show_icons=true" />
+
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=master30112001&count_private=true&show_icons=true&theme=gotham" alt="master30112001" />
 
 </a>
 
