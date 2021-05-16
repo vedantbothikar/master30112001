@@ -30,7 +30,7 @@ I am a student, currently studying in Pune Institute of Computer Technology. I a
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3>  &nbsp;Connect with Me 🤝🏻</h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/vedant-bothikar-979752197/"><img alt="LINKEDIN" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a> 
