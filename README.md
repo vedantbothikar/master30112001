@@ -7,7 +7,7 @@ I am a Software Developer proficient in Reactjs & Nodejs. I've worked at several
 
 **Work Experience:**
 
-- FinLegal Solutions: _Software Developer_
+- Azodha: _Software Developer_
 - Bolstart: _Software Developer_
 - Atomic Loops: _Blockchain Developer_
 
@@ -38,9 +38,9 @@ I am a Software Developer proficient in Reactjs & Nodejs. I've worked at several
 
 <p align="center">
 <a href="mailto:contactvedant30@gmail.com"><img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-<a href="https://www.linkedin.com/in/vedant-bothikar-979752197/"><img alt="LINKEDIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-<a href="https://www.twitter.com/VedantBothikar"><img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
-<a href="https://www.instagram.com/_ved_ant__/"><img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
+<a href="https://www.linkedin.com/in/vedantbothikar/"><img alt="LINKEDIN" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+<a href="https://www.twitter.com/vedantbothikar"><img alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a> 
+<a href="https://www.instagram.com/vedantbothikar/"><img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a> 
 </p>
 
 <p align="center"> 
